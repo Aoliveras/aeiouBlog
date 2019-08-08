@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
+  "title": "aeiou bloggo",
   "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Dev life from the other side",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Creative | Hooman | Fullstack Dev-er",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://myurl.com/feed/feed.xml",
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Adam Oliveras - D3VB34R",
     "email": "youremailaddress@example.com"
   }
 }
